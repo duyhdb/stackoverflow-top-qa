@@ -22,7 +22,7 @@ import requests
 def parse_token() -> str:
     """Return API access token (from file)"""
     config = configparser.ConfigParser()
-    config_file = os.path.join(os.path.dirname(__file__), "myconfig.cfg")
+    config_file = os.path.join(os.path.dirname(__file__), "sample.cfg")
     config.read(config_file)
 
     return config['stackoverflow']['access_token']
