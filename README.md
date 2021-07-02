@@ -38,17 +38,18 @@ $ python3 stackoverflow.py [N] [LABEL]
 $ python3 ex9_3.py 4 python
 ```
 1. What does the &quot;yield&quot; keyword do?
-[https://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do#231855](https://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do#231855)
 
+   [https://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do#231855](https://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do#231855)
 
 2. What does if __name__ == &quot;__main__&quot;: do?
-[https://stackoverflow.com/questions/419163/what-does-if-name-main-do#419185](https://stackoverflow.com/questions/419163/what-does-if-name-main-do#419185)
 
+   [https://stackoverflow.com/questions/419163/what-does-if-name-main-do#419185](https://stackoverflow.com/questions/419163/what-does-if-name-main-do#419185)
 
 3. Does Python have a ternary conditional operator?
-[https://stackoverflow.com/questions/394809/does-python-have-a-ternary-conditional-operator#394814](https://stackoverflow.com/questions/394809/does-python-have-a-ternary-conditional-operator#394814)
 
+   [https://stackoverflow.com/questions/394809/does-python-have-a-ternary-conditional-operator#394814](https://stackoverflow.com/questions/394809/does-python-have-a-ternary-conditional-operator#394814)
 
 4. What are metaclasses in Python?
-[https://stackoverflow.com/questions/100003/what-are-metaclasses-in-python#6581949](https://stackoverflow.com/questions/100003/what-are-metaclasses-in-python#6581949)
+
+   [https://stackoverflow.com/questions/100003/what-are-metaclasses-in-python#6581949](https://stackoverflow.com/questions/100003/what-are-metaclasses-in-python#6581949)
 ```
