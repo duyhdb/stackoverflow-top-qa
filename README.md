@@ -52,4 +52,3 @@ $ python3 ex9_3.py 4 python
 4. What are metaclasses in Python?
 
    [https://stackoverflow.com/questions/100003/what-are-metaclasses-in-python#6581949](https://stackoverflow.com/questions/100003/what-are-metaclasses-in-python#6581949)
-```
