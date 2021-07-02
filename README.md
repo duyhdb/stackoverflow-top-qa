@@ -36,6 +36,7 @@ $ python3 stackoverflow.py [N] [LABEL]
 ## Demo
 ```
 $ python3 ex9_3.py 4 python
+```
 
 1. What does the &quot;yield&quot; keyword do?
 > [https://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do#231855](https://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do#231855)
