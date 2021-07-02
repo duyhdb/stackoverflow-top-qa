@@ -9,7 +9,7 @@ How to use:
     $ python3 stackoverflow.py [N] [LABEL]
     
 Requirement:
-    - A API token and store it in a config file (i.e. myconfig.cfg).
+    - A API token and store it in a config file (i.e. sample.cfg).
 """
 
 import argparse
