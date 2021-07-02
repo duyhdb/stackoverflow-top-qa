@@ -1,4 +1,4 @@
-# Stackoverflow Top Questions & Answers ― Crawler Tool
+# Stackoverflow Top Questions & Answers ― Crawler
 A script get the highest voted questions from StackOverflow.com and print its best anwser url.
 
 ## Table of Contents
