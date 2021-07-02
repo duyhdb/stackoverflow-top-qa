@@ -20,7 +20,7 @@ Project is created with:
 ## Requirement
 * `stackoverflow API key` store in config file (i.e. `myconfig.cfg`) located in the same directory of this script.
 
-As document said, an API key is NOT compulsory to retrieve question/answer, but for more quota of API calls.
+As document said, an API key is NOT compulsory to retrieve question/answer, but for more API quota in this case.
 > If an application does have an access_token, then the application is on a distinct user/app pair daily quota (default [size of 10,000](https://api.stackexchange.com/docs/throttle)).
 
 [Register an API key](https://stackapps.com/apps/oauth/register).
