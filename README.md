@@ -28,7 +28,7 @@ As document said, an API key is NOT compulsory to retrieve question/answer, but 
 
 ## Setup
 To run this project, spin up terminal locally:
-```
+``` bash
 $ cd ../stackoverflow-top-qa
 $ python3 stackoverflow.py [N] [LABEL]
 ```
