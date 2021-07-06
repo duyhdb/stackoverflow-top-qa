@@ -28,13 +28,13 @@ As document said, an API key is NOT compulsory to retrieve question/answer, but 
 
 ## Setup
 To run this project, spin up terminal locally:
-``` bash
+```sh
 $ cd ../stackoverflow-top-qa
 $ python3 stackoverflow.py [N] [LABEL]
 ```
 
 ## Demo
-```
+```sh
 $ python3 stackoverflow.py 4 python
 ```
 1. What does the &quot;yield&quot; keyword do?
